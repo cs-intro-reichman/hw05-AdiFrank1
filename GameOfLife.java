@@ -190,7 +190,7 @@ public class GameOfLife {
 		 {
 			for (int j=1; j< array[i].length -1 ; j++)
 			{
-				System.out.printf ("%3s" , arr[i][j] + " ");
+				System.out.printf ("%3s" , arr[i][j]);
 			}
 			System.out.println () ;
 		 }
